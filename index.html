@@ -30,7 +30,7 @@ search for status
 row filter
 
 -->
-
+<div style="text-align: center;font-family: cursive;font-size: 40px">IGNITE</div>
 <div class="row form-group" style="text-align: center"><div class="col-4"></div><div class="col-4">Search<br><input class="form-control" type="text" placeholder="Search " ng-model="find"></div>
 <div class="col-4"></div>
 </div>
@@ -66,14 +66,14 @@ row filter
       <input type="text" ng-model="search.type">
       </th>
       <th scope="col">Contact No<br>
-      <input type="text" ng-model="search.contact" >
+      <input type="text" ng-model="find2.contact">
       </th>
      
     </tr>
   </thead>
   <tbody>
 </div>
-    <tr ng-repeat="item in names|filter:search|filter:find |limitTo:rowlimit | orderBy:'-price'" >
+    <tr ng-repeat="item in names|filter:search|filter:find |filter:find2 |limitTo:rowlimit | orderBy:'-price'" >
     		<td></td>
 			<td>{{item.name|uppercase}}</td>
 			<td>{{item.doj|date:"dd/MM/yyyy"}}</td>
