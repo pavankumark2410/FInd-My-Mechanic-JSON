@@ -1,5 +1,6 @@
 {"mechanic":
- [{"status":"0","exp":17,"doj":"july 21 1990","name":"abcdefghij","price":350000.00,"location":"abcdefghij","type":"abcdefghij","contact":"9900808675"},
+ [{"status":"0","exp":17,"doj":"july 21 1990","name":"c","price":350000.00,"location":"c","type":"c","contact":"9900808675"},
+  {"status":"0","exp":17,"doj":"july 21 1990","name":"abcdefghij","price":350000.00,"location":"abcdefghij","type":"abcdefghij","contact":"9900808675"},
    {"status":"0","exp":17,"doj":"july 21 1990","name":"Sunil","price":350000.00,"location":"Periyar","type":"engine","contact":"9900808675"},
    {"status":"1","exp":16,"doj":"october 24,2021","name":"Ramuk","price":500000.00,"location":"Kalavasal","type":"look and feel","contact":"9486693427"},
    {"status":"1","exp":11,"doj":"july 23 ,1990","name":"Abishek","price":1500000.00,"location":"Thiruparankundram","type":"automation","contact":"8883712624"},
