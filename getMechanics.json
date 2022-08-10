@@ -17,7 +17,8 @@
    {"status":"1","exp":15,"doj":"july 21 ,1990","name":"Harika","price":360000.00,"location":"Andalpuram","type":"ALL","contact":"88776554433"},
    {"status":"1","exp":3,"doj":"july 21 ,1990","name":"Gowthami","price":400000.00,"location":"Madurai","type":"designer","contact":"8241654654"},
   {"status":"0","exp":17,"doj":"july 21 1990","name":"asdf","price":350000.00,"location":"Periyar","type":"engine","contact":"9900808675"},
-  {"status":"0","exp":17,"doj":"july 21 1990","name":"nerdu","price":350000.00,"location":"Periyar","type":"engine","contact":"1234567898"}
+  {"status":"0","exp":17,"doj":"july 21 1990","name":"nerdu","price":350000.00,"location":"Periyar","type":"engine","contact":"1234567898"},
+  {"status":"0","exp":1,"doj":"june 20 2000","name":"1","price":350000.00,"location":"1","type":"1","contact":"1"}
    
  ]
 }
