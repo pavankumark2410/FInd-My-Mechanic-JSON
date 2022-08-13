@@ -1,5 +1,6 @@
 {"mechanic":
- [{"status":"0","exp":17,"doj":"july 21 1990","name":"nerdu","price":350000.00,"location":"Periyar","type":"engine","contact":"1234567898"},
+ [{"status":"0","exp":17,"doj":"july 21 1990","name":"pavan","price":350000.00,"location":"pvan","type":"pavan","contact":"1234567898"},
+  {"status":"0","exp":17,"doj":"july 21 1990","name":"nerdu","price":350000.00,"location":"Periyar","type":"engine","contact":"1234567898"},
   {"status":"0","exp":17,"doj":"july 21 1990","name":"c","price":350000.00,"location":"c","type":"c","contact":"9900808675"},
   {"status":"0","exp":17,"doj":"july 21 1990","name":"sandy","price":350000.00,"location":"c","type":"c","contact":"9900808675"},
   {"status":"0","exp":17,"doj":"july 21 1990","name":"abcdefghij","price":350000.00,"location":"sandy","type":"sandy","contact":"9900808675"},
